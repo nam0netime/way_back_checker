@@ -14,4 +14,16 @@ python way_back_checker.py -h
 
 
 ```
+## way_back_check for one url
 
+```
+Enter python way_back_checker.py -u
+Then a dialog show up and you enter the url you would like to check there
+
+```
+## way_back_check for a file input
+
+```
+Enter python way_back_checker.py -f file.txt
+
+```
